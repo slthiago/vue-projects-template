@@ -9,7 +9,7 @@ A modern, opinionated, and ready-to-use template for kickstarting Vue.js project
 - 🗺️ [Vue Router](https://router.vuejs.org/) for routing
 - 🎨 [Oh Vue Icons](https://oh-vue-icons.js.org/) for easy icon management
 - 🧹 A modern CSS reset for consistent styling
-- 🎨 [Bootstrap] (https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- 🎨 [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - 🔧 [ESLint](https://eslint.org/) & [Prettier](https://prettier.io/) for code quality
 - ⚡️ [Vite](https://vitejs.dev/) for lightning-fast development
 
