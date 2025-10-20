@@ -5,13 +5,12 @@ A modern, opinionated, and ready-to-use template for kickstarting Vue.js project
 ## ✨ Features
 
 - ⚡️ [Vue 3](https://vuejs.org/) with Composition API
-- 🛠️ [TypeScript](https://www.typescriptlang.org/) for type safety
 - 📦 [Pinia](https://pinia.vuejs.org/) for state management
 - 🗺️ [Vue Router](https://router.vuejs.org/) for routing
 - 🎨 [Oh Vue Icons](https://oh-vue-icons.js.org/) for easy icon management
 - 🧹 A modern CSS reset for consistent styling
+- 🎨 [Bootstrap] (https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - 🔧 [ESLint](https://eslint.org/) & [Prettier](https://prettier.io/) for code quality
-- 🐶 [Husky](https://typicode.github.io/husky/) & [lint-staged](https://github.com/okonet/lint-staged) for clean commits
 - ⚡️ [Vite](https://vitejs.dev/) for lightning-fast development
 
 ## 🛠️ Getting Started
@@ -21,8 +20,8 @@ You can create a new repository based on this template with a single click.
 1.  **Use this template**: Click the green "Use this template" button on GitHub to create a new repository with this code.
 2.  **Clone your new repository**:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_NEW_REPO_NAME.git
-    cd YOUR_NEW_REPO_NAME
+    git clone https://github.com/slthiago/vue-projects-template.git
+    cd vue-projects-template
     ```
 3.  **Install dependencies**:
     ```bash
@@ -39,7 +38,7 @@ That's it! You're ready to start building.
 
 This template is designed to be easily customized:
 
-- **Adding Icons**: Simply import new icons from `oh-vue-icons/icons` inside `src/plugins/icons.ts`.
+- **Adding Icons**: Simply import new icons from `oh-vue-icons/icons` inside `src/plugins/icons.js`.
 - **Global Styles**: Modify CSS variables and base styles in `src/assets/styles/main.css`.
 - **Linting Rules**: Adjust ESLint and Prettier configurations in `.eslintrc.cjs` and `.prettierrc`.
 
